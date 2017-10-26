@@ -20,7 +20,7 @@ Naoya Takeishi, Yoshinobu Kawahara, and Takehisa Yairi, "Subspace Dynamic Mode D
 
 <https://doi.org/10.1103/PhysRevE.96.033310>
 
-Sorry for that there is a typo in the main algorithm (Algorithm 2) in PhysRev E paper; arXiv version is fixed.
+Sorry for that there is a typo in the main algorithm (Algorithm 2) in PhysRev E paper; arXiv version (v4 and newer) is fixed.
 
 arXiv version: <https://arxiv.org/abs/1705.04908>
 
